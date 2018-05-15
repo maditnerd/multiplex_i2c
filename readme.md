@@ -35,3 +35,6 @@ CJMCU-9548 : $1.52
 
 Voici un schéma (non testé) de branchement de 4 capteurs Si7021 sur un Arduino MKR WAN 1300
 ![Schema I2C Multiples](i2c_multiples.png)
+
+
+Source images - Rémi Sarrailh (CC-0): http://images.madnerd.org/ 
